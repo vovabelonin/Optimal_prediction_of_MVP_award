@@ -4,7 +4,9 @@
 ### Description
 This educational project was made under the guidance of Daniil Merkulov on optimization methods in MIPT.
 
-I am absorbed in basketball so I decided to predict MVP award in NBA. I trained Random Forest Classifier to predict player who would get this award. And I used Optuna to search optimal hyperparameters. 
+I am absorbed in basketball so I predicted the player who won the NBA Most Valuable Player Award.
+As a model I used the Random Forest Classifier. The main idea of the project was to find the optimal hyperparameters. I used Optuna (TSEsampler, GridSampler, RandomSampler) to search for them. 
+
 
 ---
 ### Poster
